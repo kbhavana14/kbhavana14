@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kbhavana14
-- 👀 I’m interested in exploring...
+- 👀 I’m interested in ...exploring and learning
 - 📫 How to reach me ...email: bhavanakodali@gmail.com
 
 <!---
