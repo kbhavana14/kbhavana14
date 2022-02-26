@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @kbhavana14
 - 👀 I’m interested in ...exploring and learning
+- Currently learning web dev
 - 📫 How to reach me ...email: bhavanakodali@gmail.com
 
 <!---
