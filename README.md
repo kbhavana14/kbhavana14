@@ -1,3 +1,6 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kbhavana14&label=Profile%20views&color=0e75b6&style=flat" alt="bhavana" /> </p>
+
+
 - 👋 Hi, I’m @kbhavana14
 - 👀 I’m interested in ...exploring and learning
 - Currently learning web dev
