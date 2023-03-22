@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @kbhavana14
 - 👀 I’m interested in ...exploring and learning
-- Currently learning web dev
+- Currently learning Machine Learning
 - 📫 How to reach me ...email: bhavanakodali365@gmail.com
 
 <!---
